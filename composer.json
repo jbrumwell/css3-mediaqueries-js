@@ -1,0 +1,14 @@
+{
+    "name": "jbrumwell/css3-mediaqueries-js",
+    "description": "Package of library provided by http://code.google.com/p/css3-mediaqueries-js/ Wouter van der Graaf",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wouter van der Graaf",
+            "email": "wouter@dynora.nl"
+        }
+    ],
+    "require": {
+
+    }
+}
